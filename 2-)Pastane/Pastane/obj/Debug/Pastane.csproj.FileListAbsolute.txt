@@ -1,0 +1,60 @@
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\bin\Debug\Pastane.exe.config
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\bin\Debug\Pastane.exe
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\bin\Debug\Pastane.pdb
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.csproj.AssemblyReference.cache
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.Form1.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.Properties.Resources.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.Satıcılar.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.Seçenekler.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.Siparişler.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.Ürünler.resources
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.csproj.GenerateResource.cache
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.csproj.CoreCompileInputs.cache
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.exe
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.pdb
+C:\Users\ayse.alpaslan\Desktop\uygulamalar\Winformamasa\Pastane\Pastane\obj\Debug\Pastane.Rapor.resources
+E:\4.11.2022_Pastane\Pastane\Pastane\bin\Debug\Pastane.exe.config
+E:\4.11.2022_Pastane\Pastane\Pastane\bin\Debug\Pastane.exe
+E:\4.11.2022_Pastane\Pastane\Pastane\bin\Debug\Pastane.pdb
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.csproj.AssemblyReference.cache
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Form1.resources
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Properties.Resources.resources
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Rapor.resources
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Satıcılar.resources
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Seçenekler.resources
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Siparişler.resources
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Ürünler.resources
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.csproj.GenerateResource.cache
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.csproj.CoreCompileInputs.cache
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.exe
+E:\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.pdb
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\bin\Debug\Pastane.exe.config
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\bin\Debug\Pastane.exe
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\bin\Debug\Pastane.pdb
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Form1.resources
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Properties.Resources.resources
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Rapor.resources
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Satıcılar.resources
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Seçenekler.resources
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Siparişler.resources
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.Ürünler.resources
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.exe
+C:\Users\Dell\Desktop\Projeleeer\4.11.2022_Pastane\Pastane\Pastane\obj\Debug\Pastane.pdb
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\bin\Debug\Pastane.exe.config
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\bin\Debug\Pastane.exe
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\bin\Debug\Pastane.pdb
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.Form1.resources
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.Properties.Resources.resources
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.Rapor.resources
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.Satıcılar.resources
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.Seçenekler.resources
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.Siparişler.resources
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.Ürünler.resources
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.exe
+C:\Users\Dell\Desktop\projeler son hali\Pastane\Pastane\obj\Debug\Pastane.pdb
